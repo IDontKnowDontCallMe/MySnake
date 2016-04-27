@@ -25,6 +25,7 @@ public class Board extends Frame{
 	
 	
 	public static void main(String args[]){
+		System.out.println("try try");
 		Board board = new Board("SNAKE");
 	}
 	
